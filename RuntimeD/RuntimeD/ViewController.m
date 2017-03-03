@@ -109,6 +109,9 @@
 //    NSLog(@"mArray1 retain count: %d",[mArray1 retainCount]);
     NSLog(@"");
     [[NSArray alloc] initWithArray:nil copyItems:YES];
+    
+    
+    辅导辅导辅导费
 }
 
 
