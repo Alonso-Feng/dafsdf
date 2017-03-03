@@ -110,8 +110,6 @@
     NSLog(@"");
     [[NSArray alloc] initWithArray:nil copyItems:YES];
     
-    
-    辅导辅导辅导费
 }
 
 
